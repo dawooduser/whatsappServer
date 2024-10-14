@@ -1,0 +1,12 @@
+Whatsapp Gateway Multi Device v8.5.1
+Developed By Magd Almuntaser (TTMTT)
+https://doniaweb.com
+
+
+Translator:
+MURASAKI: Indonesian translation.
+Magd Almuntaser: Arabic translation.
+Upal: Hindi translation.
+
+
+This script is under GPL-3.0 license. Before you start modifying this script, please review the GPL-3.0.txt file.
