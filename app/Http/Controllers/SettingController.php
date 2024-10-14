@@ -232,7 +232,7 @@ class SettingController extends Controller
             $request->typeServer === 'other'
             ? $request->urlnode . ':' . $request->portnode
             : ($request->typeServer === 'hosting'
-                ? url('/')
+                ? "http://whatsappserver.360waha.com/"
                 : 'http://localhost:' . $request->portnode);
         setEnv('TYPE_SERVER', $request->typeServer);
         setEnv('PORT_NODE', $request->portnode);
