@@ -1,5 +1,5 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/waha34/public_html/whatsappserver.360waha.com
+    - export DEPLOYPATH=/home/waha30/public_html/whatsappserver.360waha.com
     - /bin/cp * $DEPLOYPATH
